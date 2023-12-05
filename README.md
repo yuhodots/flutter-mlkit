@@ -1,3 +1,4 @@
-# part5_mlkit_text_detector_starter
+# Flutter MLkit
 
-"A new Flutter project."
+- A starter for the Flutter text detector
+- Forked from https://github.com/fastcampus-flutter/part5_mlkit_text_detector_starter
